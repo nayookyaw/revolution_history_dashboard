@@ -1,7 +1,7 @@
-/*
+
     Developed by Nay Oo Kyaw
     nayookyaw.nok@gmail.com
-*/
+
 
 # Required modules
 
